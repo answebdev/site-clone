@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Oct 2021 06:08:00 at https://www.beautystatcosmetics.com/en/pre-6.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.beautystatcosmetics.com/en/pre-6.html -O1 "C:\Users\wicke\Desktop\cloned-site\site-clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:08:30	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.beautystatcosmetics.com/en/pre-6.html)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/c (from connect.facebook.net/en_US/fbevents.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/b (from connect.facebook.net/en_US/fbevents.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/POST (from connect.facebook.net/en_US/fbevents.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/edge/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/iemobile/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/firefox/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/opera/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/opr/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/chrome/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/safari/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/trident/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/test (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+06:08:39	Error: 	"Not Found" (404) at link https://www.beautystatcosmetics.com/en/path=/ (from d16hdrba6dusey.cloudfront.net/sitecommon/js/commons/ctrwow_analytics.v3.pro.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 108 links scanned, 93 files written (7280691 bytes overall) [4370055 bytes received at 109251 bytes/sec], 3887435 bytes transferred using HTTP compression in 34 files, ratio 23%, 6.7 requests per connection
+(14 errors, 0 warnings, 0 messages)
